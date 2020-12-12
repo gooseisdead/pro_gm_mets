@@ -32,6 +32,17 @@ class TeamContainer extends React.Component {
         let filteredArray = this.state.api
         return filteredArray.map(el => <Player key={el.id} player={el} api={this.state.api} />)
     }
+
+    totalSalary = () => {
+        let salaryArray = this.state.api.filter(function (el) {
+            return el.contract_value
+        })
+        let grandTotal = []
+        salaryArray.map(el => grandTotal.push(el.contract_value))
+        // grandTotal.reduce((a, b) => a + b, 0)
+        console.log(grandTotal.reduce((a, b) => a + b, 0))
+    };
+        
     // renderByTeam = () => {
     //     let teamFilteredArray = this.state.api.filter(function (el) {
     //         return el.current_team === "Yankees"          
@@ -43,6 +54,7 @@ class TeamContainer extends React.Component {
         return (
             <div className="team-container">
                 <Header team_name={this.state.api}/>
+                <h2 onClick={this.totalSalary}>What is the Salary?</h2>
                 {/* <h2 onClick={this.renderByTeam}>Where are Yankees?</h2> */}
                 {this.renderPlayers()}
                 <NewPlayerForm handleNewPlayer={this.handleNewPlayer}/>

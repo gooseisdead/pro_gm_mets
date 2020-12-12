@@ -170,32 +170,6 @@
       "contract_length": "minors",
       "current_team": "Mets",
       "40_man": true
-    },
-    {
-      "name": "Taylor Clarke",
-      "position": "SP",
-      "contract_value": "1.5",
-      "contract_length": "3rd year",
-      "id": 20,
-      "current_team": "Mets",
-      "40_man": true
-    },
-    {
-      "name": "Jeff Samardjza",
-      "position": "SP",
-      "contract_value": "7.0",
-      "contract_length": "2021",
-      "current_team": "Mets",
-      "40_man": true,
-      "id": 21
-    },
-    {
-      "name": "Wei-Yen Chen",
-      "position": "SP",
-      "contract_value": "3.5",
-      "contract_length": "2021",
-      "current_team": "Mets",
-      "id": 22
     }
   ]
 }
