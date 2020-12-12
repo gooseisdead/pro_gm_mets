@@ -35,6 +35,8 @@ class NewPlayerForm extends React.Component {
         <br></br>
         <input placeholder="Length" name="contract_length" value={this.state.contract_length} onChange={this.handleChange}/>
         <br></br>
+        <input placeholder="Team" name="current_team" value={this.state.current_team} onChange={this.handleChange}/>
+        <br></br>
         <input type="submit" value="Submit Player" />
       </form>
     );
