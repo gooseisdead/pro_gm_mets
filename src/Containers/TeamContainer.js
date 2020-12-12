@@ -32,11 +32,18 @@ class TeamContainer extends React.Component {
         let filteredArray = this.state.api
         return filteredArray.map(el => <Player key={el.id} player={el} api={this.state.api} />)
     }
+    // renderByTeam = () => {
+    //     let teamFilteredArray = this.state.api.filter(function (el) {
+    //         return el.current_team === "Yankees"          
+    //     });
+    //       console.log(teamFilteredArray);
+    // }
 
     render() {
         return (
             <div className="team-container">
                 <Header team_name={this.state.api}/>
+                {/* <h2 onClick={this.renderByTeam}>Where are Yankees?</h2> */}
                 {this.renderPlayers()}
                 <NewPlayerForm handleNewPlayer={this.handleNewPlayer}/>
             </div>
