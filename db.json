@@ -1,0 +1,139 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "position": "C",
+            "name": "Austin Nola",
+            "contract-value": 5.0,
+            "contract-length": "2021"
+        },
+        {
+            "id": 2,
+            "position": "1B",
+            "name": "Pete Alonso",
+            "contract-value": 1.0,
+            "contract-length": "2nd year"
+        },
+        {
+            "id": 3,
+            "position": "2B",
+            "name": "Wilmer Flores",
+            "contract-value": 2.2,
+            "contract-length": "2020-2022"
+        },
+        {
+            "id": 4,
+            "position": "3B",
+            "name": "Brad Miller",
+            "contract-value": 0.8,
+            "contract-length": "2021"
+        },
+        {
+            "id": 5,
+            "position": "SS",
+            "name": "Andrelton Simmons",
+            "contract-value": 10.4,
+            "contract-length": "2021"
+        },
+        {
+            "id": 6,
+            "position": "OF",
+            "name": "Willie Calhoun",
+            "contract-value": 1.0,
+            "contract-length": "2nd year"
+        },
+        {
+            "id": 7,
+            "position": "OF",
+            "name": "Teoscar Hernandez",
+            "contract-value": 1.5,
+            "contract-length": "3rd year"
+        },
+        {
+            "id": 8,
+            "position": "OF",
+            "name": "Marcell Ozuna",
+            "contract-value": 16.0,
+            "contract-length": "2023"
+        },
+        {
+            "id": 9,
+            "position": "BN",
+            "name": "Ender Inciarte",
+            "contract-value": 2.2,
+            "contract-length": "2023"
+        },
+        {
+            "id": 10,
+            "position": "BN",
+            "name": "Chance Sisco",
+            "contract-value": 1.0,
+            "contract-length": "2nd year"
+        },
+        {
+            "id": 11,
+            "position": "BN",
+            "name": "Scooter Gennett",
+            "contract-value": 22.4,
+            "contract-length": "2021"
+        },
+        {
+            "id": 12,
+            "position": "BN",
+            "name": "Josh Reddick",
+            "contract-value": 2.0,
+            "contract-length": "2021"
+        },
+        {
+            "id": 13,
+            "position": "BN",
+            "name": "Joe Panik",
+            "contract-value": 0.6,
+            "contract-length": "2021"
+        },
+        {
+            "id": 14,
+            "position": "BN",
+            "name": "Greg Garcia",
+            "contract-value": 2.5,
+            "contract-length": "5th year"
+        },
+        {
+            "id": 15,
+            "position": "BN",
+            "name": "Ehire Adrianza",
+            "contract-value": 1.0,
+            "contract-length": "2021"
+        },
+        {
+            "id": 16,
+            "position": "BN",
+            "name": "Jonah Heim",
+            "contract-value": 2.0,
+            "contract-length": "2021"
+        },
+        {
+            "id": 17,
+            "position": "BN",
+            "name": "Cody Thomas",
+            "contract-value": 0.9,
+            "contract-length": "2021"
+        },
+        {
+            "id": 18,
+            "position": "BN",
+            "name": "Max Stassi",
+            "contract-value": 1.5,
+            "contract-length": "3rd year"
+        },
+        {
+            "id": 19,
+            "position": "SP",
+            "name": "Dustin May",
+            "contract-value": 0.5,
+            "contract-length": "minors"
+        }
+    ]
+}
+
+        
