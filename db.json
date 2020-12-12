@@ -6,7 +6,8 @@
       "name": "Austin Nola",
       "contract_value": 5,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "name": "Pete Alonso",
       "contract_value": 1,
       "contract_length": "2nd year",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "name": "Wilmer Flores",
       "contract_value": 2.2,
       "contract_length": "2020-2022",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "name": "Brad Miller",
       "contract_value": 0.8,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "name": "Andrelton Simmons",
       "contract_value": 10.4,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "name": "Willie Calhoun",
       "contract_value": 1,
       "contract_length": "2nd year",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "name": "Teoscar Hernandez",
       "contract_value": 1.5,
       "contract_length": "3rd year",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "name": "Marcell Ozuna",
       "contract_value": 16,
       "contract_length": "2023",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "name": "Ender Inciarte",
       "contract_value": 2.2,
       "contract_length": "2023",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "name": "Chance Sisco",
       "contract_value": 1,
       "contract_length": "2nd year",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "name": "Scooter Gennett",
       "contract_value": 22.4,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "name": "Josh Reddick",
       "contract_value": 2,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "name": "Joe Panik",
       "contract_value": 0.6,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "name": "Greg Garcia",
       "contract_value": 2.5,
       "contract_length": "5th year",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "name": "Ehire Adrianza",
       "contract_value": 1,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "name": "Jonah Heim",
       "contract_value": 2,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 17,
@@ -134,7 +150,8 @@
       "name": "Cody Thomas",
       "contract_value": 0.9,
       "contract_length": "2021",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 18,
@@ -142,7 +159,8 @@
       "name": "Max Stassi",
       "contract_value": 1.5,
       "contract_length": "3rd year",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "id": 19,
@@ -150,7 +168,8 @@
       "name": "Dustin May",
       "contract_value": 0.5,
       "contract_length": "minors",
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "name": "Taylor Clarke",
@@ -158,7 +177,8 @@
       "contract_value": "1.5",
       "contract_length": "3rd year",
       "id": 20,
-      "current_team": "Mets"
+      "current_team": "Mets",
+      "40_man": true
     },
     {
       "name": "Jeff Samardjza",
@@ -166,7 +186,16 @@
       "contract_value": "7.0",
       "contract_length": "2021",
       "current_team": "Mets",
+      "40_man": true,
       "id": 21
+    },
+    {
+      "name": "Wei-Yen Chen",
+      "position": "SP",
+      "contract_value": "3.5",
+      "contract_length": "2021",
+      "current_team": "Mets",
+      "id": 22
     }
   ]
 }

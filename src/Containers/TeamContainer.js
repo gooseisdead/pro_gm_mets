@@ -1,6 +1,7 @@
 import React from 'react';
 import Player from '../Components/Player'
 import NewPlayerForm from '../Components/NewPlayerForm'
+import Header from '../Components/Header'
 
 class TeamContainer extends React.Component {
 
@@ -35,7 +36,7 @@ class TeamContainer extends React.Component {
     render() {
         return (
             <div className="team-container">
-                <h2>Teams</h2>
+                <Header team_name={this.state.api}/>
                 {this.renderPlayers()}
                 <NewPlayerForm handleNewPlayer={this.handleNewPlayer}/>
             </div>
