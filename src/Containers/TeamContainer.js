@@ -40,6 +40,7 @@ class TeamContainer extends React.Component {
         let grandTotal = []
         salaryArray.map(el => grandTotal.push(el.contract_value))
         // grandTotal.reduce((a, b) => a + b, 0)
+        grandTotal.reduce((a, b) => a + b, 0)
         console.log(grandTotal.reduce((a, b) => a + b, 0))
     };
         
